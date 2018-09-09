@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 646478493, guid: 7aed481bc8d8bee448bf2ae245d7762c, type: 3}
+  m_Name: EditorData
+  m_EditorClassIdentifier: 
+  lastProject: {fileID: 11400000, guid: 2d5e1b2b56762314898b93177b8c2b67, type: 2}
+  section: 5
+  subSection: 0
+  tabIndex: -1
+  scrollY: 0
+  helpDrag: 220
+  subSectionDrag: 250
+  tabListDrag: 250
+  formulaDrag: 250
+  schematicDrag: 400
+  guiEditorDrag: 500
+  jumpListDrag: 200
+  updateSchematics: 1
+  schematicUpdateFolder: 
+  updatePrefabs: 0
+  updateScenes: 0
+  sceneUpdate: 
+  schematicAsset:
+  - {fileID: 11400000, guid: 78e2492da035216449c0d54e88ff1fee, type: 2}
+  - {fileID: 11400000, guid: 6f89c508b7a506040b3cd3adfc2918a6, type: 2}
+  - {fileID: 11400000, guid: 47d55caed2f75244fb05dee7d753d24d, type: 2}
+  - {fileID: 11400000, guid: 66779697c90d49a469157b49c653fc99, type: 2}
+  - {fileID: 11400000, guid: 3f4c089acce4ec04a86b9aa974f2e5fb, type: 2}
+  variablesDefined: []
+  variablesEditor:
+  - dice_stop
+  - dice_lose
+  - dice_manche
+  - score_pj
+  - score_pnj
+  - localhost
+  variablesSchematic:
+  - initialVelocity
+  - dice_score
+  - face_score
+  - dice_stop
+  - score_pj
+  - supp
+  - dice_lose
+  - score_pnj
+  - dice_manche
+  - dice_win_pnj
+  - dice_win_pj
+  - stat_dice_lose
+  - stat_dice_win
+  variablesScene: []

@@ -1,0 +1,2204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1773782550809950}
+  m_IsPrefabAsset: 1
+--- !u!1 &1112058332331198
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4150941139297014}
+  - component: {fileID: 65384696675899914}
+  - component: {fileID: 114954530683350442}
+  - component: {fileID: 114660087778074572}
+  m_Layer: 0
+  m_Name: 8
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1112467728389032
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4601026845413830}
+  - component: {fileID: 65651751157513444}
+  - component: {fileID: 114431243616790050}
+  - component: {fileID: 114478217127482680}
+  m_Layer: 0
+  m_Name: 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1307700586584312
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4464846009508622}
+  - component: {fileID: 65750603611357010}
+  - component: {fileID: 114737739453968656}
+  - component: {fileID: 114986305949558530}
+  m_Layer: 0
+  m_Name: 7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1411462651335194
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4946752477045132}
+  - component: {fileID: 65317002470001534}
+  - component: {fileID: 114529816067120588}
+  - component: {fileID: 114049465621692150}
+  m_Layer: 0
+  m_Name: 6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1470386628964354
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4155449323685484}
+  - component: {fileID: 65997541482640526}
+  - component: {fileID: 114852245068274254}
+  - component: {fileID: 114534690575125280}
+  m_Layer: 0
+  m_Name: 5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1546913567553184
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4825823659688974}
+  - component: {fileID: 65902265201430314}
+  - component: {fileID: 114155791730213608}
+  - component: {fileID: 114214313458857492}
+  m_Layer: 0
+  m_Name: 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1706037264953606
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4945821793207974}
+  - component: {fileID: 65231004954673858}
+  - component: {fileID: 114076033504584050}
+  - component: {fileID: 114368880777916124}
+  m_Layer: 0
+  m_Name: 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1773782550809950
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4449833507722014}
+  - component: {fileID: 33722473443359122}
+  - component: {fileID: 23274359869247522}
+  - component: {fileID: 54221769976866060}
+  - component: {fileID: 64324538762361424}
+  - component: {fileID: 82463600776256528}
+  - component: {fileID: 81805963716113156}
+  m_Layer: 0
+  m_Name: 8side_dice
+  m_TagString: de
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1981175579418766
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4866871480730316}
+  - component: {fileID: 65320687867769456}
+  - component: {fileID: 114087052124132082}
+  - component: {fileID: 114453386119520664}
+  m_Layer: 0
+  m_Name: 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4150941139297014
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1112058332331198}
+  m_LocalRotation: {x: 0.15460493, y: 0.6925599, z: -0.15338711, w: 0.6876995}
+  m_LocalPosition: {x: -0.01171, y: 0.097, z: 0.00031}
+  m_LocalScale: {x: 1.0001789, y: 0.88619787, z: 4.324108}
+  m_Children: []
+  m_Father: {fileID: 4449833507722014}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0.40600002, y: 64.842, z: -89.989006}
+--- !u!4 &4155449323685484
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470386628964354}
+  m_LocalRotation: {x: 0.22704741, y: 0.008274303, z: 0.0010699306, w: 0.973848}
+  m_LocalPosition: {x: -0.000131, y: 0.1051, z: -0.011282}
+  m_LocalScale: {x: 1.0006028, y: 0.8711688, z: 4.5943484}
+  m_Children: []
+  m_Father: {fileID: 4449833507722014}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: -63.736004, y: 2.15, z: -2.0240002}
+--- !u!4 &4449833507722014
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1773782550809950}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 100, y: 5.3547583, z: 99.99997}
+  m_Children:
+  - {fileID: 4945821793207974}
+  - {fileID: 4866871480730316}
+  - {fileID: 4601026845413830}
+  - {fileID: 4825823659688974}
+  - {fileID: 4155449323685484}
+  - {fileID: 4946752477045132}
+  - {fileID: 4464846009508622}
+  - {fileID: 4150941139297014}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4464846009508622
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1307700586584312}
+  m_LocalRotation: {x: 0.15460493, y: 0.6925599, z: -0.15338711, w: 0.6876995}
+  m_LocalPosition: {x: -0.00288, y: -0.0574, z: 0.00018}
+  m_LocalScale: {x: 1.0001789, y: 0.88619787, z: 4.324108}
+  m_Children: []
+  m_Father: {fileID: 4449833507722014}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0.40600002, y: 64.842, z: -89.989006}
+--- !u!4 &4601026845413830
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1112467728389032}
+  m_LocalRotation: {x: -0.12617259, y: 0.6936944, z: 0.12909289, w: 0.6972831}
+  m_LocalPosition: {x: 0.01171, y: -0.1235, z: 0.00004}
+  m_LocalScale: {x: 1.0004385, y: 0.9414748, z: 3.328294}
+  m_Children: []
+  m_Father: {fileID: 4449833507722014}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -0.32900003, y: 110.797005, z: -89.82001}
+--- !u!4 &4825823659688974
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1546913567553184}
+  m_LocalRotation: {x: -0.12617259, y: 0.6936944, z: 0.12909289, w: 0.6972831}
+  m_LocalPosition: {x: 0.01296, y: 0.0604, z: 0.00068}
+  m_LocalScale: {x: 1.0004385, y: 0.9414748, z: 3.328294}
+  m_Children: []
+  m_Father: {fileID: 4449833507722014}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -0.32900003, y: 110.797005, z: -89.82001}
+--- !u!4 &4866871480730316
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1981175579418766}
+  m_LocalRotation: {x: -0.21644124, y: 0.006997806, z: 0.0045430753, w: 0.97626007}
+  m_LocalPosition: {x: -0.00013, y: -0.0109, z: 0.00763}
+  m_LocalScale: {x: 1.0006028, y: 0.8882612, z: 4.286514}
+  m_Children: []
+  m_Father: {fileID: 4449833507722014}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -115.013, y: -1.5849915, z: 2.1179962}
+--- !u!4 &4945821793207974
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1706037264953606}
+  m_LocalRotation: {x: -0.21644124, y: 0.006997806, z: 0.0045430753, w: 0.97626007}
+  m_LocalPosition: {x: -0.00022, y: 0.0306, z: 0.00327}
+  m_LocalScale: {x: 1.0006028, y: 0.8882612, z: 4.286514}
+  m_Children: []
+  m_Father: {fileID: 4449833507722014}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -115.013, y: -1.5849915, z: 2.1179962}
+--- !u!4 &4946752477045132
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1411462651335194}
+  m_LocalRotation: {x: 0.22704741, y: 0.008274303, z: 0.0010699306, w: 0.973848}
+  m_LocalPosition: {x: -0.00028, y: -0.0554, z: -0.00272}
+  m_LocalScale: {x: 1.0006028, y: 0.8711688, z: 4.5943484}
+  m_Children: []
+  m_Father: {fileID: 4449833507722014}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: -63.736004, y: 2.15, z: -2.0240002}
+--- !u!23 &23274359869247522
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1773782550809950}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 2100000, guid: 7747180584dc2324d955b360c97e3a69, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &33722473443359122
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1773782550809950}
+  m_Mesh: {fileID: 4300000, guid: 1eec8069e4e0e6d4faf3e9763a050e6d, type: 3}
+--- !u!54 &54221769976866060
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1773782550809950}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!64 &64324538762361424
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1773782550809950}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 1
+  m_CookingOptions: -1
+  m_SkinWidth: 0.01
+  m_Mesh: {fileID: 4300000, guid: 1eec8069e4e0e6d4faf3e9763a050e6d, type: 3}
+--- !u!65 &65231004954673858
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1706037264953606}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0037760239, y: 0.014142062, z: 0.00041887135}
+  m_Center: {x: 0.00007739854, y: -0.0025109902, z: -0.00044179294}
+--- !u!65 &65317002470001534
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1411462651335194}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0034278801, y: 0.014720785, z: 0.000270603}
+  m_Center: {x: 0.00019624385, y: 0.009866175, z: 0.00040876537}
+--- !u!65 &65320687867769456
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1981175579418766}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0030330773, y: 0.01977506, z: 0.00039766563}
+  m_Center: {x: 0.00014385674, y: -0.035459608, z: -0.0060441126}
+--- !u!65 &65384696675899914
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1112058332331198}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0035456747, y: 0.017872669, z: 0.00032464185}
+  m_Center: {x: -0.000012717729, y: -0.06297455, z: 0.008338708}
+--- !u!65 &65651751157513444
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1112467728389032}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0041045826, y: 0.016132431, z: 0.0012679645}
+  m_Center: {x: 0.00048234063, y: 0.09848229, z: 0.00626833}
+--- !u!65 &65750603611357010
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1307700586584312}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.004104582, y: 0.014616031, z: 0.00028969647}
+  m_Center: {x: 0.00013686783, y: 0.020669283, z: -0.00049816543}
+--- !u!65 &65902265201430314
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1546913567553184}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0034752318, y: 0.021000061, z: 0.0005284264}
+  m_Center: {x: 0.0004082969, y: -0.021016696, z: -0.00563863}
+--- !u!65 &65997541482640526
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470386628964354}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0036442713, y: 0.016320845, z: 0.00039175103}
+  m_Center: {x: -0.00035170765, y: -0.06985835, z: 0.0086544}
+--- !u!81 &81805963716113156
+AudioListener:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1773782550809950}
+  m_Enabled: 1
+--- !u!82 &82463600776256528
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1773782550809950}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &114049465621692150
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1411462651335194}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1061489952, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serialize_conditionSetting:
+    name: conditionSetting
+    xmlData: "<conditionSetting autoCheckType=\"0\" conditionFail=\"0\" >\n\t<_float
+      destroyCheckDelay=\"1\" />\n\t<_bool checkVariables=\"True\" repeatCheck=\"False\"
+      />\n\t<variableCondition needed=\"0\" >\n\t\t<_subarrays>\n\t\t\t<variable>\n\t\t\t\t<0
+      conditionType=\"0\" templateID=\"0\" >\n\t\t\t\t\t<checkVariable type=\"1\"
+      axisType=\"0\" stringCheck=\"0\" floatCheck=\"0\" vector3Check=\"2\" >\n\t\t\t\t\t\t<_bool
+      isValid=\"True\" exists=\"True\" />\n\t\t\t\t\t\t<variable origin=\"0\" objectScope=\"1\"
+      listOrigin=\"0\" >\n\t\t\t\t\t\t\t<_bool removeFromList=\"False\" />\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<objectID><![CDATA[]]></objectID>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<key>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t\t<value><![CDATA[dice_stop]]></value>\n\t\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t\t</key>\n\t\t\t\t\t\t</variable>\n\t\t\t\t\t\t<stringValue>\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<value><![CDATA[]]></value>\n\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t</stringValue>\n\t\t\t\t\t</checkVariable>\n\t\t\t\t</0>\n\t\t\t</variable>\n\t\t</_subarrays>\n\t</variableCondition>\n</conditionSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  assetSetting:
+    machineTypeID: 0
+    stopOnDestroy: 1
+    endAction: 0
+    startDelayTime: 0
+    endDelayTime: 0
+    turnStartingObject: 0
+    turnMachineObject: 0
+    autoStop: 0
+    autoStopCheckTime: 0
+    serialize_inputID:
+      name: timeline
+      xmlData: "<timeline>\n\t<_bool overrideID=\"False\" />\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+    assetType: 0
+    schematicAsset: {fileID: 11400000, guid: 47d55caed2f75244fb05dee7d753d24d, type: 2}
+    executionType: 0
+    updateType: 0
+    setPriority: 0
+    priority: 0
+    serialize_timeline:
+      name: timeline
+      xmlData: "<timeline>\n\t<_subarrays>\n\t\t<point>\n\t\t</point>\n\t</_subarrays>\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+  serialize_startVariableSetting:
+    name: startVariableSetting
+    xmlData: "<startVariableSetting>\n\t<_bool setStartVariables=\"False\" />\n</startVariableSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  serialize_changeAfterSetting:
+    name: changeAfterSetting
+    xmlData: "<changeAfterSetting>\n\t<_bool setVariables=\"False\" />\n</changeAfterSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  actor: []
+  resources:
+    prefab: []
+    audioClip: []
+    audioMixer: []
+    audioMixerGroup: []
+    sprite: []
+    texture: []
+    material: []
+    physicMaterial: []
+    physicsMaterial2D: []
+  startSetting:
+    checkOrientation: 0
+    horizontalPlane: 0
+    useFront: 1
+    useBack: 1
+    useLeft: 1
+    useRight: 1
+    networkActiveCheck: 0
+    networkingMachineObject: 0
+    networkingStartingObject: 0
+    checkGameStates: 0
+    gameStates:
+      needed: 1
+      gameState: []
+    isTriggerEnter: 0
+    isTriggerStay: 1
+    isTriggerExit: 0
+    startByCollider: 1
+    startByTrigger: 1
+    startByRoot: 0
+    startByOther: 1
+    needed: 1
+    startObjectCheck:
+    - type: 0
+      name: tapis
+      check: 0
+      isValid: 1
+    limitLayers: 0
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 4294967295
+--- !u!114 &114076033504584050
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1706037264953606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 120415142, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localVariables: 1
+  objectID: eeb6f9bc-d7f2-49fa-bdbc-0c20f8996dd2
+  networkSyncStart: 0
+  networkSyncChange: 0
+  alwaysInitialize: 1
+  serialize_initialVariables:
+    name: initialVariables
+    xmlData: "<initialVariables>\n\t<_subarrays>\n\t\t<variable>\n\t\t\t<0 listChange=\"0\"
+      removeType=\"0\" type=\"2\" axisType=\"0\" stringOperator=\"0\" floatOperator=\"7\"
+      vector3Operator=\"2\" >\n\t\t\t\t<_bool isList=\"False\" remove=\"False\" normalize=\"False\"
+      />\n\t\t\t\t<key>\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<value><![CDATA[face_score]]></value>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</key>\n\t\t\t\t<floatValue
+      mathType=\"0\" >\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.FloatValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_float
+      value=\"1\" />\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.FloatValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</floatValue>\n\t\t\t</0>\n\t\t</variable>\n\t</_subarrays>\n</initialVariables>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+--- !u!114 &114087052124132082
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1981175579418766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 120415142, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localVariables: 1
+  objectID: eeb6f9bc-d7f2-49fa-bdbc-0c20f8996dd2
+  networkSyncStart: 0
+  networkSyncChange: 0
+  alwaysInitialize: 1
+  serialize_initialVariables:
+    name: initialVariables
+    xmlData: "<initialVariables>\n\t<_subarrays>\n\t\t<variable>\n\t\t\t<0 listChange=\"0\"
+      removeType=\"0\" type=\"2\" axisType=\"0\" stringOperator=\"0\" floatOperator=\"7\"
+      vector3Operator=\"2\" >\n\t\t\t\t<_bool isList=\"False\" remove=\"False\" normalize=\"False\"
+      />\n\t\t\t\t<key>\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<value><![CDATA[face_score]]></value>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</key>\n\t\t\t\t<floatValue
+      mathType=\"0\" >\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.FloatValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_float
+      value=\"2\" />\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.FloatValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</floatValue>\n\t\t\t</0>\n\t\t</variable>\n\t</_subarrays>\n</initialVariables>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+--- !u!114 &114155791730213608
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1546913567553184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 120415142, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localVariables: 1
+  objectID: eeb6f9bc-d7f2-49fa-bdbc-0c20f8996dd2
+  networkSyncStart: 0
+  networkSyncChange: 0
+  alwaysInitialize: 1
+  serialize_initialVariables:
+    name: initialVariables
+    xmlData: "<initialVariables>\n\t<_subarrays>\n\t\t<variable>\n\t\t\t<0 listChange=\"0\"
+      removeType=\"0\" type=\"2\" axisType=\"0\" stringOperator=\"0\" floatOperator=\"7\"
+      vector3Operator=\"2\" >\n\t\t\t\t<_bool isList=\"False\" remove=\"False\" normalize=\"False\"
+      />\n\t\t\t\t<key>\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<value><![CDATA[face_score]]></value>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</key>\n\t\t\t\t<floatValue
+      mathType=\"0\" >\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.FloatValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_float
+      value=\"4\" />\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.FloatValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</floatValue>\n\t\t\t</0>\n\t\t</variable>\n\t</_subarrays>\n</initialVariables>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+--- !u!114 &114214313458857492
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1546913567553184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1061489952, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serialize_conditionSetting:
+    name: conditionSetting
+    xmlData: "<conditionSetting autoCheckType=\"0\" conditionFail=\"0\" >\n\t<_float
+      destroyCheckDelay=\"1\" />\n\t<_bool checkVariables=\"True\" repeatCheck=\"False\"
+      />\n\t<variableCondition needed=\"0\" >\n\t\t<_subarrays>\n\t\t\t<variable>\n\t\t\t\t<0
+      conditionType=\"0\" templateID=\"0\" >\n\t\t\t\t\t<checkVariable type=\"1\"
+      axisType=\"0\" stringCheck=\"0\" floatCheck=\"0\" vector3Check=\"2\" >\n\t\t\t\t\t\t<_bool
+      isValid=\"True\" exists=\"True\" />\n\t\t\t\t\t\t<variable origin=\"0\" objectScope=\"1\"
+      listOrigin=\"0\" >\n\t\t\t\t\t\t\t<_bool removeFromList=\"False\" />\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<objectID><![CDATA[]]></objectID>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<key>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t\t<value><![CDATA[dice_stop]]></value>\n\t\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t\t</key>\n\t\t\t\t\t\t</variable>\n\t\t\t\t\t\t<stringValue>\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<value><![CDATA[]]></value>\n\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t</stringValue>\n\t\t\t\t\t</checkVariable>\n\t\t\t\t</0>\n\t\t\t</variable>\n\t\t</_subarrays>\n\t</variableCondition>\n</conditionSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  assetSetting:
+    machineTypeID: 0
+    stopOnDestroy: 1
+    endAction: 0
+    startDelayTime: 0
+    endDelayTime: 0
+    turnStartingObject: 0
+    turnMachineObject: 0
+    autoStop: 0
+    autoStopCheckTime: 0
+    serialize_inputID:
+      name: timeline
+      xmlData: "<timeline>\n\t<_bool overrideID=\"False\" />\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+    assetType: 0
+    schematicAsset: {fileID: 11400000, guid: 47d55caed2f75244fb05dee7d753d24d, type: 2}
+    executionType: 0
+    updateType: 0
+    setPriority: 0
+    priority: 0
+    serialize_timeline:
+      name: timeline
+      xmlData: "<timeline>\n\t<_subarrays>\n\t\t<point>\n\t\t</point>\n\t</_subarrays>\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+  serialize_startVariableSetting:
+    name: startVariableSetting
+    xmlData: "<startVariableSetting>\n\t<_bool setStartVariables=\"False\" />\n</startVariableSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  serialize_changeAfterSetting:
+    name: changeAfterSetting
+    xmlData: "<changeAfterSetting>\n\t<_bool setVariables=\"False\" />\n</changeAfterSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  actor: []
+  resources:
+    prefab: []
+    audioClip: []
+    audioMixer: []
+    audioMixerGroup: []
+    sprite: []
+    texture: []
+    material: []
+    physicMaterial: []
+    physicsMaterial2D: []
+  startSetting:
+    checkOrientation: 0
+    horizontalPlane: 0
+    useFront: 1
+    useBack: 1
+    useLeft: 1
+    useRight: 1
+    networkActiveCheck: 0
+    networkingMachineObject: 0
+    networkingStartingObject: 0
+    checkGameStates: 0
+    gameStates:
+      needed: 1
+      gameState: []
+    isTriggerEnter: 0
+    isTriggerStay: 1
+    isTriggerExit: 0
+    startByCollider: 1
+    startByTrigger: 1
+    startByRoot: 0
+    startByOther: 1
+    needed: 1
+    startObjectCheck:
+    - type: 0
+      name: tapis
+      check: 0
+      isValid: 1
+    limitLayers: 0
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 4294967295
+--- !u!114 &114368880777916124
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1706037264953606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1061489952, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serialize_conditionSetting:
+    name: conditionSetting
+    xmlData: "<conditionSetting autoCheckType=\"0\" conditionFail=\"0\" >\n\t<_float
+      destroyCheckDelay=\"1\" />\n\t<_bool checkVariables=\"True\" repeatCheck=\"False\"
+      />\n\t<variableCondition needed=\"0\" >\n\t\t<_subarrays>\n\t\t\t<variable>\n\t\t\t\t<0
+      conditionType=\"0\" templateID=\"0\" >\n\t\t\t\t\t<checkVariable type=\"1\"
+      axisType=\"0\" stringCheck=\"0\" floatCheck=\"0\" vector3Check=\"2\" >\n\t\t\t\t\t\t<_bool
+      isValid=\"True\" exists=\"True\" />\n\t\t\t\t\t\t<variable origin=\"0\" objectScope=\"1\"
+      listOrigin=\"0\" >\n\t\t\t\t\t\t\t<_bool removeFromList=\"False\" />\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<objectID><![CDATA[]]></objectID>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<key>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t\t<value><![CDATA[dice_stop]]></value>\n\t\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t\t</key>\n\t\t\t\t\t\t</variable>\n\t\t\t\t\t\t<stringValue>\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<value><![CDATA[]]></value>\n\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t</stringValue>\n\t\t\t\t\t</checkVariable>\n\t\t\t\t</0>\n\t\t\t</variable>\n\t\t</_subarrays>\n\t</variableCondition>\n</conditionSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  assetSetting:
+    machineTypeID: 0
+    stopOnDestroy: 1
+    endAction: 0
+    startDelayTime: 0
+    endDelayTime: 0
+    turnStartingObject: 0
+    turnMachineObject: 0
+    autoStop: 0
+    autoStopCheckTime: 0
+    serialize_inputID:
+      name: timeline
+      xmlData: "<timeline>\n\t<_bool overrideID=\"False\" />\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+    assetType: 0
+    schematicAsset: {fileID: 11400000, guid: 47d55caed2f75244fb05dee7d753d24d, type: 2}
+    executionType: 0
+    updateType: 0
+    setPriority: 0
+    priority: 0
+    serialize_timeline:
+      name: timeline
+      xmlData: "<timeline>\n\t<_subarrays>\n\t\t<point>\n\t\t</point>\n\t</_subarrays>\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+  serialize_startVariableSetting:
+    name: startVariableSetting
+    xmlData: "<startVariableSetting>\n\t<_bool setStartVariables=\"False\" />\n</startVariableSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  serialize_changeAfterSetting:
+    name: changeAfterSetting
+    xmlData: "<changeAfterSetting>\n\t<_bool setVariables=\"False\" />\n</changeAfterSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  actor: []
+  resources:
+    prefab: []
+    audioClip: []
+    audioMixer: []
+    audioMixerGroup: []
+    sprite: []
+    texture: []
+    material: []
+    physicMaterial: []
+    physicsMaterial2D: []
+  startSetting:
+    checkOrientation: 0
+    horizontalPlane: 0
+    useFront: 1
+    useBack: 1
+    useLeft: 1
+    useRight: 1
+    networkActiveCheck: 0
+    networkingMachineObject: 0
+    networkingStartingObject: 0
+    checkGameStates: 0
+    gameStates:
+      needed: 1
+      gameState: []
+    isTriggerEnter: 0
+    isTriggerStay: 1
+    isTriggerExit: 0
+    startByCollider: 1
+    startByTrigger: 1
+    startByRoot: 0
+    startByOther: 1
+    needed: 1
+    startObjectCheck:
+    - type: 0
+      name: tapis
+      check: 0
+      isValid: 1
+    limitLayers: 0
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 4294967295
+--- !u!114 &114431243616790050
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1112467728389032}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 120415142, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localVariables: 1
+  objectID: eeb6f9bc-d7f2-49fa-bdbc-0c20f8996dd2
+  networkSyncStart: 0
+  networkSyncChange: 0
+  alwaysInitialize: 1
+  serialize_initialVariables:
+    name: initialVariables
+    xmlData: "<initialVariables>\n\t<_subarrays>\n\t\t<variable>\n\t\t\t<0 listChange=\"0\"
+      removeType=\"0\" type=\"2\" axisType=\"0\" stringOperator=\"0\" floatOperator=\"7\"
+      vector3Operator=\"2\" >\n\t\t\t\t<_bool isList=\"False\" remove=\"False\" normalize=\"False\"
+      />\n\t\t\t\t<key>\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<value><![CDATA[face_score]]></value>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</key>\n\t\t\t\t<floatValue
+      mathType=\"0\" >\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.FloatValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_float
+      value=\"3\" />\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.FloatValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</floatValue>\n\t\t\t</0>\n\t\t</variable>\n\t</_subarrays>\n</initialVariables>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+--- !u!114 &114453386119520664
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1981175579418766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1061489952, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serialize_conditionSetting:
+    name: conditionSetting
+    xmlData: "<conditionSetting autoCheckType=\"0\" conditionFail=\"0\" >\n\t<_float
+      destroyCheckDelay=\"1\" />\n\t<_bool checkVariables=\"True\" repeatCheck=\"False\"
+      />\n\t<variableCondition needed=\"0\" >\n\t\t<_subarrays>\n\t\t\t<variable>\n\t\t\t\t<0
+      conditionType=\"0\" templateID=\"0\" >\n\t\t\t\t\t<checkVariable type=\"1\"
+      axisType=\"0\" stringCheck=\"0\" floatCheck=\"0\" vector3Check=\"2\" >\n\t\t\t\t\t\t<_bool
+      isValid=\"True\" exists=\"True\" />\n\t\t\t\t\t\t<variable origin=\"0\" objectScope=\"1\"
+      listOrigin=\"0\" >\n\t\t\t\t\t\t\t<_bool removeFromList=\"False\" />\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<objectID><![CDATA[]]></objectID>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<key>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t\t<value><![CDATA[dice_stop]]></value>\n\t\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t\t</key>\n\t\t\t\t\t\t</variable>\n\t\t\t\t\t\t<stringValue>\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<value><![CDATA[]]></value>\n\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t</stringValue>\n\t\t\t\t\t</checkVariable>\n\t\t\t\t</0>\n\t\t\t</variable>\n\t\t</_subarrays>\n\t</variableCondition>\n</conditionSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  assetSetting:
+    machineTypeID: 0
+    stopOnDestroy: 1
+    endAction: 0
+    startDelayTime: 0
+    endDelayTime: 0
+    turnStartingObject: 0
+    turnMachineObject: 0
+    autoStop: 0
+    autoStopCheckTime: 0
+    serialize_inputID:
+      name: timeline
+      xmlData: "<timeline>\n\t<_bool overrideID=\"False\" />\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+    assetType: 0
+    schematicAsset: {fileID: 11400000, guid: 47d55caed2f75244fb05dee7d753d24d, type: 2}
+    executionType: 0
+    updateType: 0
+    setPriority: 0
+    priority: 0
+    serialize_timeline:
+      name: timeline
+      xmlData: "<timeline>\n\t<_subarrays>\n\t\t<point>\n\t\t</point>\n\t</_subarrays>\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+  serialize_startVariableSetting:
+    name: startVariableSetting
+    xmlData: "<startVariableSetting>\n\t<_bool setStartVariables=\"False\" />\n</startVariableSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  serialize_changeAfterSetting:
+    name: changeAfterSetting
+    xmlData: "<changeAfterSetting>\n\t<_bool setVariables=\"False\" />\n</changeAfterSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  actor: []
+  resources:
+    prefab: []
+    audioClip: []
+    audioMixer: []
+    audioMixerGroup: []
+    sprite: []
+    texture: []
+    material: []
+    physicMaterial: []
+    physicsMaterial2D: []
+  startSetting:
+    checkOrientation: 0
+    horizontalPlane: 0
+    useFront: 1
+    useBack: 1
+    useLeft: 1
+    useRight: 1
+    networkActiveCheck: 0
+    networkingMachineObject: 0
+    networkingStartingObject: 0
+    checkGameStates: 0
+    gameStates:
+      needed: 1
+      gameState: []
+    isTriggerEnter: 0
+    isTriggerStay: 1
+    isTriggerExit: 0
+    startByCollider: 1
+    startByTrigger: 1
+    startByRoot: 0
+    startByOther: 1
+    needed: 1
+    startObjectCheck:
+    - type: 0
+      name: tapis
+      check: 0
+      isValid: 1
+    limitLayers: 0
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 4294967295
+--- !u!114 &114478217127482680
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1112467728389032}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1061489952, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serialize_conditionSetting:
+    name: conditionSetting
+    xmlData: "<conditionSetting autoCheckType=\"0\" conditionFail=\"0\" >\n\t<_float
+      destroyCheckDelay=\"1\" />\n\t<_bool checkVariables=\"True\" repeatCheck=\"False\"
+      />\n\t<variableCondition needed=\"0\" >\n\t\t<_subarrays>\n\t\t\t<variable>\n\t\t\t\t<0
+      conditionType=\"0\" templateID=\"0\" >\n\t\t\t\t\t<checkVariable type=\"1\"
+      axisType=\"0\" stringCheck=\"0\" floatCheck=\"0\" vector3Check=\"2\" >\n\t\t\t\t\t\t<_bool
+      isValid=\"True\" exists=\"True\" />\n\t\t\t\t\t\t<variable origin=\"0\" objectScope=\"1\"
+      listOrigin=\"0\" >\n\t\t\t\t\t\t\t<_bool removeFromList=\"False\" />\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<objectID><![CDATA[]]></objectID>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<key>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t\t<value><![CDATA[dice_stop]]></value>\n\t\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t\t</key>\n\t\t\t\t\t\t</variable>\n\t\t\t\t\t\t<stringValue>\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<value><![CDATA[]]></value>\n\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t</stringValue>\n\t\t\t\t\t</checkVariable>\n\t\t\t\t</0>\n\t\t\t</variable>\n\t\t</_subarrays>\n\t</variableCondition>\n</conditionSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  assetSetting:
+    machineTypeID: 0
+    stopOnDestroy: 1
+    endAction: 0
+    startDelayTime: 0
+    endDelayTime: 0
+    turnStartingObject: 0
+    turnMachineObject: 0
+    autoStop: 0
+    autoStopCheckTime: 0
+    serialize_inputID:
+      name: timeline
+      xmlData: "<timeline>\n\t<_bool overrideID=\"False\" />\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+    assetType: 0
+    schematicAsset: {fileID: 11400000, guid: 47d55caed2f75244fb05dee7d753d24d, type: 2}
+    executionType: 0
+    updateType: 0
+    setPriority: 0
+    priority: 0
+    serialize_timeline:
+      name: timeline
+      xmlData: "<timeline>\n\t<_subarrays>\n\t\t<point>\n\t\t</point>\n\t</_subarrays>\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+  serialize_startVariableSetting:
+    name: startVariableSetting
+    xmlData: "<startVariableSetting>\n\t<_bool setStartVariables=\"False\" />\n</startVariableSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  serialize_changeAfterSetting:
+    name: changeAfterSetting
+    xmlData: "<changeAfterSetting>\n\t<_bool setVariables=\"False\" />\n</changeAfterSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  actor: []
+  resources:
+    prefab: []
+    audioClip: []
+    audioMixer: []
+    audioMixerGroup: []
+    sprite: []
+    texture: []
+    material: []
+    physicMaterial: []
+    physicsMaterial2D: []
+  startSetting:
+    checkOrientation: 0
+    horizontalPlane: 0
+    useFront: 1
+    useBack: 1
+    useLeft: 1
+    useRight: 1
+    networkActiveCheck: 0
+    networkingMachineObject: 0
+    networkingStartingObject: 0
+    checkGameStates: 0
+    gameStates:
+      needed: 1
+      gameState: []
+    isTriggerEnter: 0
+    isTriggerStay: 1
+    isTriggerExit: 0
+    startByCollider: 1
+    startByTrigger: 1
+    startByRoot: 0
+    startByOther: 1
+    needed: 1
+    startObjectCheck:
+    - type: 0
+      name: tapis
+      check: 0
+      isValid: 1
+    limitLayers: 0
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 4294967295
+--- !u!114 &114529816067120588
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1411462651335194}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 120415142, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localVariables: 1
+  objectID: eeb6f9bc-d7f2-49fa-bdbc-0c20f8996dd2
+  networkSyncStart: 0
+  networkSyncChange: 0
+  alwaysInitialize: 1
+  serialize_initialVariables:
+    name: initialVariables
+    xmlData: "<initialVariables>\n\t<_subarrays>\n\t\t<variable>\n\t\t\t<0 listChange=\"0\"
+      removeType=\"0\" type=\"2\" axisType=\"0\" stringOperator=\"0\" floatOperator=\"7\"
+      vector3Operator=\"2\" >\n\t\t\t\t<_bool isList=\"False\" remove=\"False\" normalize=\"False\"
+      />\n\t\t\t\t<key>\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<value><![CDATA[face_score]]></value>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</key>\n\t\t\t\t<floatValue
+      mathType=\"0\" >\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.FloatValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_float
+      value=\"6\" />\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.FloatValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</floatValue>\n\t\t\t</0>\n\t\t</variable>\n\t</_subarrays>\n</initialVariables>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+--- !u!114 &114534690575125280
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470386628964354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1061489952, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serialize_conditionSetting:
+    name: conditionSetting
+    xmlData: "<conditionSetting autoCheckType=\"0\" conditionFail=\"0\" >\n\t<_float
+      destroyCheckDelay=\"1\" />\n\t<_bool checkVariables=\"True\" repeatCheck=\"False\"
+      />\n\t<variableCondition needed=\"0\" >\n\t\t<_subarrays>\n\t\t\t<variable>\n\t\t\t\t<0
+      conditionType=\"0\" templateID=\"0\" >\n\t\t\t\t\t<checkVariable type=\"1\"
+      axisType=\"0\" stringCheck=\"0\" floatCheck=\"0\" vector3Check=\"2\" >\n\t\t\t\t\t\t<_bool
+      isValid=\"True\" exists=\"True\" />\n\t\t\t\t\t\t<variable origin=\"0\" objectScope=\"1\"
+      listOrigin=\"0\" >\n\t\t\t\t\t\t\t<_bool removeFromList=\"False\" />\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<objectID><![CDATA[]]></objectID>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<key>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t\t<value><![CDATA[dice_stop]]></value>\n\t\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t\t</key>\n\t\t\t\t\t\t</variable>\n\t\t\t\t\t\t<stringValue>\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<value><![CDATA[]]></value>\n\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t</stringValue>\n\t\t\t\t\t</checkVariable>\n\t\t\t\t</0>\n\t\t\t</variable>\n\t\t</_subarrays>\n\t</variableCondition>\n</conditionSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  assetSetting:
+    machineTypeID: 0
+    stopOnDestroy: 1
+    endAction: 0
+    startDelayTime: 0
+    endDelayTime: 0
+    turnStartingObject: 0
+    turnMachineObject: 0
+    autoStop: 0
+    autoStopCheckTime: 0
+    serialize_inputID:
+      name: timeline
+      xmlData: "<timeline>\n\t<_bool overrideID=\"False\" />\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+    assetType: 0
+    schematicAsset: {fileID: 11400000, guid: 47d55caed2f75244fb05dee7d753d24d, type: 2}
+    executionType: 0
+    updateType: 0
+    setPriority: 0
+    priority: 0
+    serialize_timeline:
+      name: timeline
+      xmlData: "<timeline>\n\t<_subarrays>\n\t\t<point>\n\t\t</point>\n\t</_subarrays>\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+  serialize_startVariableSetting:
+    name: startVariableSetting
+    xmlData: "<startVariableSetting>\n\t<_bool setStartVariables=\"False\" />\n</startVariableSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  serialize_changeAfterSetting:
+    name: changeAfterSetting
+    xmlData: "<changeAfterSetting>\n\t<_bool setVariables=\"False\" />\n</changeAfterSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  actor: []
+  resources:
+    prefab: []
+    audioClip: []
+    audioMixer: []
+    audioMixerGroup: []
+    sprite: []
+    texture: []
+    material: []
+    physicMaterial: []
+    physicsMaterial2D: []
+  startSetting:
+    checkOrientation: 0
+    horizontalPlane: 0
+    useFront: 1
+    useBack: 1
+    useLeft: 1
+    useRight: 1
+    networkActiveCheck: 0
+    networkingMachineObject: 0
+    networkingStartingObject: 0
+    checkGameStates: 0
+    gameStates:
+      needed: 1
+      gameState: []
+    isTriggerEnter: 0
+    isTriggerStay: 1
+    isTriggerExit: 0
+    startByCollider: 1
+    startByTrigger: 1
+    startByRoot: 0
+    startByOther: 1
+    needed: 1
+    startObjectCheck:
+    - type: 0
+      name: tapis
+      check: 0
+      isValid: 1
+    limitLayers: 0
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 4294967295
+--- !u!114 &114660087778074572
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1112058332331198}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1061489952, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serialize_conditionSetting:
+    name: conditionSetting
+    xmlData: "<conditionSetting autoCheckType=\"0\" conditionFail=\"0\" >\n\t<_float
+      destroyCheckDelay=\"1\" />\n\t<_bool checkVariables=\"True\" repeatCheck=\"False\"
+      />\n\t<variableCondition needed=\"0\" >\n\t\t<_subarrays>\n\t\t\t<variable>\n\t\t\t\t<0
+      conditionType=\"0\" templateID=\"0\" >\n\t\t\t\t\t<checkVariable type=\"1\"
+      axisType=\"0\" stringCheck=\"0\" floatCheck=\"0\" vector3Check=\"2\" >\n\t\t\t\t\t\t<_bool
+      isValid=\"True\" exists=\"True\" />\n\t\t\t\t\t\t<variable origin=\"0\" objectScope=\"1\"
+      listOrigin=\"0\" >\n\t\t\t\t\t\t\t<_bool removeFromList=\"False\" />\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<objectID><![CDATA[]]></objectID>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<key>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t\t<value><![CDATA[dice_stop]]></value>\n\t\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t\t</key>\n\t\t\t\t\t\t</variable>\n\t\t\t\t\t\t<stringValue>\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<value><![CDATA[]]></value>\n\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t</stringValue>\n\t\t\t\t\t</checkVariable>\n\t\t\t\t</0>\n\t\t\t</variable>\n\t\t</_subarrays>\n\t</variableCondition>\n</conditionSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  assetSetting:
+    machineTypeID: 0
+    stopOnDestroy: 1
+    endAction: 0
+    startDelayTime: 0
+    endDelayTime: 0
+    turnStartingObject: 0
+    turnMachineObject: 0
+    autoStop: 0
+    autoStopCheckTime: 0
+    serialize_inputID:
+      name: timeline
+      xmlData: "<timeline>\n\t<_bool overrideID=\"False\" />\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+    assetType: 0
+    schematicAsset: {fileID: 11400000, guid: 47d55caed2f75244fb05dee7d753d24d, type: 2}
+    executionType: 0
+    updateType: 0
+    setPriority: 0
+    priority: 0
+    serialize_timeline:
+      name: timeline
+      xmlData: "<timeline>\n\t<_subarrays>\n\t\t<point>\n\t\t</point>\n\t</_subarrays>\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+  serialize_startVariableSetting:
+    name: startVariableSetting
+    xmlData: "<startVariableSetting>\n\t<_bool setStartVariables=\"False\" />\n</startVariableSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  serialize_changeAfterSetting:
+    name: changeAfterSetting
+    xmlData: "<changeAfterSetting>\n\t<_bool setVariables=\"False\" />\n</changeAfterSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  actor: []
+  resources:
+    prefab: []
+    audioClip: []
+    audioMixer: []
+    audioMixerGroup: []
+    sprite: []
+    texture: []
+    material: []
+    physicMaterial: []
+    physicsMaterial2D: []
+  startSetting:
+    checkOrientation: 0
+    horizontalPlane: 0
+    useFront: 1
+    useBack: 1
+    useLeft: 1
+    useRight: 1
+    networkActiveCheck: 0
+    networkingMachineObject: 0
+    networkingStartingObject: 0
+    checkGameStates: 0
+    gameStates:
+      needed: 1
+      gameState: []
+    isTriggerEnter: 0
+    isTriggerStay: 1
+    isTriggerExit: 0
+    startByCollider: 1
+    startByTrigger: 1
+    startByRoot: 0
+    startByOther: 1
+    needed: 1
+    startObjectCheck:
+    - type: 0
+      name: tapis
+      check: 0
+      isValid: 1
+    limitLayers: 0
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 4294967295
+--- !u!114 &114737739453968656
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1307700586584312}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 120415142, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localVariables: 1
+  objectID: eeb6f9bc-d7f2-49fa-bdbc-0c20f8996dd2
+  networkSyncStart: 0
+  networkSyncChange: 0
+  alwaysInitialize: 1
+  serialize_initialVariables:
+    name: initialVariables
+    xmlData: "<initialVariables>\n\t<_subarrays>\n\t\t<variable>\n\t\t\t<0 listChange=\"0\"
+      removeType=\"0\" type=\"2\" axisType=\"0\" stringOperator=\"0\" floatOperator=\"7\"
+      vector3Operator=\"2\" >\n\t\t\t\t<_bool isList=\"False\" remove=\"False\" normalize=\"False\"
+      />\n\t\t\t\t<key>\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<value><![CDATA[face_score]]></value>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</key>\n\t\t\t\t<floatValue
+      mathType=\"0\" >\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.FloatValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_float
+      value=\"7\" />\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.FloatValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</floatValue>\n\t\t\t</0>\n\t\t</variable>\n\t</_subarrays>\n</initialVariables>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+--- !u!114 &114852245068274254
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470386628964354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 120415142, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localVariables: 1
+  objectID: eeb6f9bc-d7f2-49fa-bdbc-0c20f8996dd2
+  networkSyncStart: 0
+  networkSyncChange: 0
+  alwaysInitialize: 1
+  serialize_initialVariables:
+    name: initialVariables
+    xmlData: "<initialVariables>\n\t<_subarrays>\n\t\t<variable>\n\t\t\t<0 listChange=\"0\"
+      removeType=\"0\" type=\"2\" axisType=\"0\" stringOperator=\"0\" floatOperator=\"7\"
+      vector3Operator=\"2\" >\n\t\t\t\t<_bool isList=\"False\" remove=\"False\" normalize=\"False\"
+      />\n\t\t\t\t<key>\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<value><![CDATA[face_score]]></value>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</key>\n\t\t\t\t<floatValue
+      mathType=\"0\" >\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.FloatValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_float
+      value=\"5\" />\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.FloatValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</floatValue>\n\t\t\t</0>\n\t\t</variable>\n\t</_subarrays>\n</initialVariables>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+--- !u!114 &114954530683350442
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1112058332331198}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 120415142, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localVariables: 1
+  objectID: eeb6f9bc-d7f2-49fa-bdbc-0c20f8996dd2
+  networkSyncStart: 0
+  networkSyncChange: 0
+  alwaysInitialize: 1
+  serialize_initialVariables:
+    name: initialVariables
+    xmlData: "<initialVariables>\n\t<_subarrays>\n\t\t<variable>\n\t\t\t<0 listChange=\"0\"
+      removeType=\"0\" type=\"2\" axisType=\"0\" stringOperator=\"0\" floatOperator=\"7\"
+      vector3Operator=\"2\" >\n\t\t\t\t<_bool isList=\"False\" remove=\"False\" normalize=\"False\"
+      />\n\t\t\t\t<key>\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<value><![CDATA[face_score]]></value>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</key>\n\t\t\t\t<floatValue
+      mathType=\"0\" >\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<type><![CDATA[Makinom.FloatValue_ValueType]]></type>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<settings>\n\t\t\t\t\t\t<_float
+      value=\"8\" />\n\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t<_type><![CDATA[Makinom.FloatValue_ValueType]]></_type>\n\t\t\t\t\t\t</_string>\n\t\t\t\t\t</settings>\n\t\t\t\t</floatValue>\n\t\t\t</0>\n\t\t</variable>\n\t</_subarrays>\n</initialVariables>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+--- !u!114 &114986305949558530
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1307700586584312}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1061489952, guid: fc41648e0c222644a85dd85001ff1da2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serialize_conditionSetting:
+    name: conditionSetting
+    xmlData: "<conditionSetting autoCheckType=\"0\" conditionFail=\"0\" >\n\t<_float
+      destroyCheckDelay=\"1\" />\n\t<_bool checkVariables=\"True\" repeatCheck=\"False\"
+      />\n\t<variableCondition needed=\"0\" >\n\t\t<_subarrays>\n\t\t\t<variable>\n\t\t\t\t<0
+      conditionType=\"0\" templateID=\"0\" >\n\t\t\t\t\t<checkVariable type=\"1\"
+      axisType=\"0\" stringCheck=\"0\" floatCheck=\"0\" vector3Check=\"2\" >\n\t\t\t\t\t\t<_bool
+      isValid=\"True\" exists=\"True\" />\n\t\t\t\t\t\t<variable origin=\"0\" objectScope=\"1\"
+      listOrigin=\"0\" >\n\t\t\t\t\t\t\t<_bool removeFromList=\"False\" />\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<objectID><![CDATA[]]></objectID>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<key>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t\t<value><![CDATA[dice_stop]]></value>\n\t\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t\t</key>\n\t\t\t\t\t\t</variable>\n\t\t\t\t\t\t<stringValue>\n\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t<type><![CDATA[Makinom.StringValue_ValueType]]></type>\n\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t<settings>\n\t\t\t\t\t\t\t\t<_string>\n\t\t\t\t\t\t\t\t\t<value><![CDATA[]]></value>\n\t\t\t\t\t\t\t\t\t<_type><![CDATA[Makinom.StringValue_ValueType]]></_type>\n\t\t\t\t\t\t\t\t</_string>\n\t\t\t\t\t\t\t</settings>\n\t\t\t\t\t\t</stringValue>\n\t\t\t\t\t</checkVariable>\n\t\t\t\t</0>\n\t\t\t</variable>\n\t\t</_subarrays>\n\t</variableCondition>\n</conditionSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  assetSetting:
+    machineTypeID: 0
+    stopOnDestroy: 1
+    endAction: 0
+    startDelayTime: 0
+    endDelayTime: 0
+    turnStartingObject: 0
+    turnMachineObject: 0
+    autoStop: 0
+    autoStopCheckTime: 0
+    serialize_inputID:
+      name: timeline
+      xmlData: "<timeline>\n\t<_bool overrideID=\"False\" />\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+    assetType: 0
+    schematicAsset: {fileID: 11400000, guid: 47d55caed2f75244fb05dee7d753d24d, type: 2}
+    executionType: 0
+    updateType: 0
+    setPriority: 0
+    priority: 0
+    serialize_timeline:
+      name: timeline
+      xmlData: "<timeline>\n\t<_subarrays>\n\t\t<point>\n\t\t</point>\n\t</_subarrays>\n</timeline>\n"
+      lookUp:
+        textures: []
+        audioClips: []
+        audioMixers: []
+        audioMixerGroups: []
+        gameObjects: []
+        guiSkins: []
+        materials: []
+        physicMaterials: []
+        physicMaterials2D: []
+        sprites: []
+        fonts: []
+        schematicAssets: []
+        generalAssets: []
+      encrypted: 0
+  serialize_startVariableSetting:
+    name: startVariableSetting
+    xmlData: "<startVariableSetting>\n\t<_bool setStartVariables=\"False\" />\n</startVariableSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  serialize_changeAfterSetting:
+    name: changeAfterSetting
+    xmlData: "<changeAfterSetting>\n\t<_bool setVariables=\"False\" />\n</changeAfterSetting>\n"
+    lookUp:
+      textures: []
+      audioClips: []
+      audioMixers: []
+      audioMixerGroups: []
+      gameObjects: []
+      guiSkins: []
+      materials: []
+      physicMaterials: []
+      physicMaterials2D: []
+      sprites: []
+      fonts: []
+      schematicAssets: []
+      generalAssets: []
+    encrypted: 0
+  actor: []
+  resources:
+    prefab: []
+    audioClip: []
+    audioMixer: []
+    audioMixerGroup: []
+    sprite: []
+    texture: []
+    material: []
+    physicMaterial: []
+    physicsMaterial2D: []
+  startSetting:
+    checkOrientation: 0
+    horizontalPlane: 0
+    useFront: 1
+    useBack: 1
+    useLeft: 1
+    useRight: 1
+    networkActiveCheck: 0
+    networkingMachineObject: 0
+    networkingStartingObject: 0
+    checkGameStates: 0
+    gameStates:
+      needed: 1
+      gameState: []
+    isTriggerEnter: 0
+    isTriggerStay: 1
+    isTriggerExit: 0
+    startByCollider: 1
+    startByTrigger: 1
+    startByRoot: 0
+    startByOther: 1
+    needed: 1
+    startObjectCheck:
+    - type: 0
+      name: tapis
+      check: 0
+      isValid: 1
+    limitLayers: 0
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 4294967295
